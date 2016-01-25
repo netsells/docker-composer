@@ -18,3 +18,4 @@ RUN apt-get update && apt-get install -y \
     && docker-php-ext-install soap
 
 RUN composer global require franzl/studio
+RUN composer global require hirak/prestissimo
