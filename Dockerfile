@@ -1,4 +1,4 @@
-FROM composer/composer:php7
+FROM composer/composer:master
 
 MAINTAINER "Sam Jordan" <sam@netsells.co.uk>
 
